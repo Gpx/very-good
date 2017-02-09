@@ -1,0 +1,13 @@
+{
+  "name": "very-good",
+  "version": "1.0.0",
+  "description": "Command line utilty that tells you which word to use in order to avoid to say \"very\"",
+  "main": "app.js",
+  "repository": {},
+  "author": "Giorgio Polvara",
+  "license": "MIT",
+  "engines": {
+    "node": "7.1.0",
+    "npm": "3.10.9"
+  }
+}
